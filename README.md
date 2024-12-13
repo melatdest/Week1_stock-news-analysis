@@ -5,7 +5,7 @@ This repository contains the structure for Python-based projects.
 # Project Title
 
 This project demonstrates the use of Python for data analysis and Git for version control.
-# Folder Structure
+## Folder Structure
 ├── .vscode/ │ └── settings.json ├── .github/ │ └── workflows/ │ └── unittests.yml ├── requirements.txt ├── README.md ├── src/ │ └── init.py ├── notebooks/ │ ├── init.py │ └── README.md ├── tests/ │ └── init.py └── scripts/ ├── init.py └── README.md
 
 ## Installation
