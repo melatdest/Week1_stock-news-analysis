@@ -1,1 +1,9 @@
+{
+    "python.pythonPath": "venv/bin/python",  // Path to your Python environment
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.autopep8Path": "venv/bin/autopep8",
+    "python.formatting.provider": "autopep8",
+    "python.testing.unittestEnabled": true
+}
 
